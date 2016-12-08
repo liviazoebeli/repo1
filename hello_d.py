@@ -1,2 +1,3 @@
-print ('Hello D')
+
+print('Hello D')
 
